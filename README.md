@@ -20,7 +20,7 @@ Built with C# and Revit APIs, this plugin enhances productivity by reducing manu
 - **Customizable Parameters**: Modify element properties as needed.
 
 ## Installation
-1. Download the latest release from the [GitHub Releases](#) page.
+1. Download the latest release.
 2. Copy the plugin DLL file to the `Addins` folder in your Revit installation directory.
    - Example: `C:\ProgramData\Autodesk\Revit\Addins\2024`
 3. Restart Revit and load a project.
@@ -46,4 +46,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License.
 
 ## Contact
-For support or inquiries, reach out via [GitHub Issues](#) or email at ismail.mohammed.atef@gmail.com.
+For support or inquiries, reach out via email at ismail.mohammed.atef@gmail.com.

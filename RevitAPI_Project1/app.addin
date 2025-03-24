@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Create Application</Name>
+		<Assembly>RevitAPI_Project1.dll</Assembly>
+		<AddInId>
+			92D801C5-2A3D-411F-8640-692DB575DD7A
+		</AddInId>
+		<FullClassName>RevitAPI_Project1.ExternalApplication</FullClassName>
+		<Text>Create Application</Text>
+		<Description>Create Application</Description>
+		<VendorId>ITI</VendorId>
+		<VendorDescription>@ITI</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
